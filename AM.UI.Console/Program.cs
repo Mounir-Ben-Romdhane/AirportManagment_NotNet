@@ -31,7 +31,7 @@ staff.PassengerType();
 traveller.PassengerType();
 */
 ServiceFlight serviceFlight = new ServiceFlight();
-serviceFlight.Flights = TestData.listFlights;
+//serviceFlight.Flights = TestData.listFlights;
 
 //List<Flight> flights = serviceFlight.Flights;
 

@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\migrations\\20240307093446_addownedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20240307093446_addownedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\configurations\\passangerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\passangerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5D48D3-B5FA-4449-97C0-035417DC6955}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5D48D3-B5FA-4449-97C0-035417DC6955}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\migrations\\20240229105412_enableannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20240229105412_enableannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\services\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.applicationcore\\interfaces\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B428AC9-C08A-4AF6-86D0-779340EAB234}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\migrations\\20240229091609_modifyairlineproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20240229091609_modifyairlineproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\msi\\onedrive\\documents\\github\\.net_airport\\airportmanagement\\am.infrastructure\\migrations\\20240307091942_addfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD690D5D-FE56-49A8-9D9E-E6681E44D014}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20240307091942_addfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240307093446_addOwnedType.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240307093446_addOwnedType.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20240307093446_addOwnedType.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240307093446_addOwnedType.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20240307093446_addOwnedType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:34:46.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:25:51.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:56:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:00:22.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:00:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:05:03.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAEwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:14:14.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:00:53.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassangerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\PassangerConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\PassangerConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Configurations\\PassangerConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\PassangerConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:08:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240307091942_addFluentApi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240307091942_addFluentApi.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20240307091942_addFluentApi.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240307091942_addFluentApi.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20240307091942_addFluentApi.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:19:42.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240229105412_EnableAnnotation.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240229105412_EnableAnnotation.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20240229105412_EnableAnnotation.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240229105412_EnableAnnotation.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20240229105412_EnableAnnotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:53:14.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwB0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:42:43.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:00:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:00:40.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:00:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AM.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeToolTip": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T08:41:13.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240229091609_ModifyAirlineProperty.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240229091609_ModifyAirlineProperty.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20240229091609_ModifyAirlineProperty.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.Infrastructure\\Migrations\\20240229091609_ModifyAirlineProperty.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20240229091609_ModifyAirlineProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:53:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:58:31.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Documents\\GitHub\\.NET_AIRPORT\\AirportManagement\\AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:58:30.276Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

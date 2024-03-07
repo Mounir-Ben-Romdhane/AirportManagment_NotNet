@@ -9,3 +9,5 @@ C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.Applica
 C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
 C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
 C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Documents\GitHub\.NET_AIRPORT\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.sourcelink.json

@@ -13,7 +13,7 @@ namespace AM.ApplicationCore
         public static Plane BoingPlane = new Plane { PlaneType = PlaneType.Boing, Capacity = 150, ManuFactureDate = new DateTime(2015, 02, 03) };
         public static Plane Airbusplane = new Plane { PlaneType = PlaneType.Airbus, Capacity = 250, ManuFactureDate = new DateTime(2020, 11, 11) };
         // Staffs
-        public static Staff captain = new Staff { PassportNumber = "1", FirstName = "captain", LastName = "captain", EmailAddress = "captain.captain@gmail.com", BirthDate = new DateTime(1965, 01, 01), EmployementDate = new DateTime(1999, 01, 01), Salary = 99999 };
+       /* public static Staff captain = new Staff { PassportNumber = "1", FirstName = "captain", LastName = "captain", EmailAddress = "captain.captain@gmail.com", BirthDate = new DateTime(1965, 01, 01), EmployementDate = new DateTime(1999, 01, 01), Salary = 99999 };
         public static Staff hostess1 = new Staff { PassportNumber = "2", FirstName = "hostess1", LastName = "hostess1", EmailAddress = "hostess1.hostess1@gmail.com", BirthDate = new DateTime(1995, 01, 01), EmployementDate = new DateTime(2020, 01, 01), Salary = 999 };
         public static Staff hostess2 = new Staff { PassportNumber = "3", FirstName = "hostess2", LastName = "hostess2", EmailAddress = "hostess2.hostess2@gmail.com", BirthDate = new DateTime(1996, 01, 01), EmployementDate = new DateTime(2020, 01, 01), Salary = 999 };
         // Travellers
@@ -34,7 +34,7 @@ namespace AM.ApplicationCore
         //test list
         public static List<Flight> listFlights = new List<Flight> { flight1, flight2, flight3, flight4, flight5, flight6 };
         public static List<Passenger> listPassengers = new List<Passenger> { captain, hostess1, hostess2, traveller1, traveller2, traveller3, traveller4, traveller5 };
-
+*/
         
     }
 }
