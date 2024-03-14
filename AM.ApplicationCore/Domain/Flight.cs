@@ -23,7 +23,7 @@ namespace AM.ApplicationCore.Domain
         public virtual Plane? Plane { get; set; }
         public virtual ICollection<Passenger>? Passengers { get; set; }
 
-        public ICollection<Ticket>? Tickets { get; set; }
+        public virtual ICollection<Ticket>? Tickets { get; set; }
 
         public override string ToString()
         {

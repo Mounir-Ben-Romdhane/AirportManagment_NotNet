@@ -3,7 +3,9 @@
 
 using AM.ApplicationCore;
 using AM.ApplicationCore.Domain;
+using AM.ApplicationCore.Interfaces;
 using AM.ApplicationCore.Services;
+using AM.Infrastructure;
 
 //Plane plane = new Plane();
 //plane.PlaneId = 1;
@@ -49,5 +51,22 @@ Console.WriteLine("\nList of flights by FlightDate");
 serviceFlight.GetFlights("FlightDate", "01/01/2022 15:10:10");
 Console.WriteLine("\nList of flights by EffectiveArrival");
 serviceFlight.GetFlights("EffectiveArrival", "01/01/2022 17:10:10");
-*/
+
 IEnumerable<IGrouping<string, Flight>> flightsbyDesctination = serviceFlight.DestinationGroupedFlight();
+*/
+
+/*
+AMContext context = new AMContext();
+context.Flights.Add(TestData.flight2);
+context.SaveChanges();
+Console.WriteLine("First flight : {0}",context.Flights.First());
+*/
+
+AMContext context = new AMContext();
+UnitOfWork unitOfWork = new UnitOfWork(context, typeof(GenericRepository<>));
+
+
+ServicePlane servicePlane = new ServicePlane(unitOfWork);
+servicePlane.Add(TestData.Airbusplane);
+servicePlane.Save();
+Console.WriteLine("plane airbus");
