@@ -29,6 +29,8 @@ namespace AM.ApplicationCore.Domain
         public DateTime BirthDate { get; set; }
         public virtual ICollection<Flight>? Flights { get; set; }
 
+        public ICollection<Ticket>? Tickets { get; set; }
+
         public override string ToString()
         {
             return $"PassengerId : {PassengerId} - " +
